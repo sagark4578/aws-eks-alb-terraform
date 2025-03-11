@@ -28,7 +28,7 @@ Ensure you have the following installed:
 
 ### Clone the Repository  
 ```bash
-git clone https://github.com/your-username/aws-eks-alb-terraform.git
+git clone https://github.com/sagark4578/aws-eks-alb-terraform.git
 cd aws-eks-alb-terraform
 Configure Terraform
 Initialize Terraform
